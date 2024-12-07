@@ -1,0 +1,7 @@
+Text to sql appliacation
+Prompt-----> LLM --->Gemini Pro ----> Query-----> SQL DB------>Response
+
+Implementation
+
+1. SQLLite ---- INsert some records---Python Programming
+2. LLM appliacation -----> Gemini Pro-----> SQL  Db
